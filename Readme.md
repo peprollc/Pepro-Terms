@@ -1,15 +1,15 @@
-# Pepro Terms
+# Terms of Pepro
 
-Please read the following when registering Pepro.
+Please read the following when register Pepro.
 
 [Pepro.me](https://pepro.me)
 
 ## Personal Information
 
-- I use github oauth to register this service.
-- We got access_token on github oauth but we do not use access_token.
-- Use access_token only when saving the program to gist.
-- Besides that, we get nickname when oauth, but just use it to display the user name in the service.
+- We use github oauth to register Pepro.
+- We got access_token on github oauth but we don't use access_token.
+- Use only access_token  when save the code to gist.
+- We get nickname when use github oauth, but we just use it to display the user name in the service.
 
 ## Secure
 
@@ -19,8 +19,8 @@ Please read the following when registering Pepro.
     - The act of embedding offensive script
     - The act of trying to steal personal information
     - The act of making a large amount of access
-    - Please refrain from other nuisances other than this.
+    - Please refrain from other nuisances.
 
-## Last
+## Wish
 
-- A fun pacing programming moment!!
+- A fun programming moment!!
